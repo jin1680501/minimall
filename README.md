@@ -1,4 +1,4 @@
-# spring framework를 이용한 여성의류 쇼핑몰
+# spring mvc 구조의 여성의류 쇼핑몰
 
 ## 1. 개요
 
