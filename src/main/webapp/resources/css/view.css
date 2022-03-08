@@ -1,0 +1,33 @@
+@charset "UTF-8";
+.itemimage img {
+            width: 500px;
+            height: 350px;
+            background-size: cover;
+            background-position: center;
+            margin: auto;
+        }
+
+        .item-desc {
+            width: 500px;
+
+            padding-top: 15px;
+            padding-bottom: 5px;
+        }
+
+        .price {
+            font-size: 16px;
+        }
+
+        .item-order {
+            width: 500px;
+        }
+
+        .btn {
+            margin: auto;
+            display: block;
+        }
+
+        .wrap {
+            width: 500px;
+            margin: auto;
+        }
