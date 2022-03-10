@@ -11,5 +11,5 @@ spring framework를 이용한 여성의류 쇼핑몰입니다. 카테고리별 �
 Web Front : HTML5 , CSS, JavaScript, Bootstrap, jQuery<br>
 Web Server : Java, Spring Framework, MyBatis, ApacheTomcat<br>
 DBMS : Oracle<br>
-개발환경 : Springboot, Maven<br>
+개발환경 : SpringBoot, Maven<br>
 
