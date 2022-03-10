@@ -13,3 +13,5 @@ Web Server : Java, Spring Framework, MyBatis, ApacheTomcat<br>
 DBMS : Oracle<br>
 개발환경 : SpringBoot, Maven<br>
 
+## 3.database Er Diagram
+![20220310_140822](https://user-images.githubusercontent.com/94607745/157594586-75d84ded-92f3-4777-8a47-b31872aa6581.png)
