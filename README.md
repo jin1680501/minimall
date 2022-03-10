@@ -13,8 +13,3 @@ Web Server : Java, Spring Framework, MyBatis, ApacheTomcat
 DBMS : Oracle
 개발환경 : Springboot, Maven
 
-## 3. database EER Diagram
-
-## 4. 사이트 맵
-
-## 5. 기능
