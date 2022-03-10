@@ -8,7 +8,7 @@ spring framework를 이용한 여성의류 쇼핑몰입니다. 카테고리별 �
 상품을 나열하는 형식은 게시판으로 표현하였으며, Q&A를 적는 방식은 댓글 형식으로 표현하였습니다.
 
 ## 2. 기술
-Web Front : HTML5 , CSS, JavaScript, Bootstrap, jQuery<br>
+Web Front : HTML , CSS, JavaScript, Bootstrap, jQuery<br>
 Web Server : Java, Spring Framework, MyBatis, ApacheTomcat<br>
 DBMS : Oracle<br>
 개발환경 : SpringBoot, Maven<br>
